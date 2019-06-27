@@ -19,6 +19,8 @@ A fractal generating program which can display the Mandelbrot, Julia, and Burnin
 F     -- freeze the Julia fractal
 
 Move with arrow keys
+
 Zoom with mouse wheel
+
 
 <strong>How to run: ./fractol name_of_fractal</strong>
