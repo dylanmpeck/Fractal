@@ -12,9 +12,9 @@ A fractal generating program which can display the Mandelbrot, Julia, and Burnin
 
 0     -- reset to default colour scheme
 
-+     -- increase max iterations (gives more definition and allows for deeper zoom)
+\+     -- increase max iterations (gives more definition and allows for deeper zoom)
 
--     -- decrease max iterations (less definition, will black out in a deep zoom)
+\-     -- decrease max iterations (less definition, will black out in a deep zoom)
 
 F     -- freeze the Julia fractal
 
