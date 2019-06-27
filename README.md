@@ -1,3 +1,7 @@
+![Alt text](https://github.com/dylanmpeck/Fractal/blob/master/screenshots/mandelbrot.png "Mandelbrot")
+![Alt text](https://github.com/dylanmpeck/Fractal/blob/master/screenshots/julia.png "Julia")
+![Alt text](https://github.com/dylanmpeck/Fractal/blob/master/screenshots/burningship.png "Burningship")
+
 <h2>Fractal</h2>
 
 A fractal generating program which can display the Mandelbrot, Julia, and Burningship fractals. Program features include shifting/changing colors, tracking mouse zoom, moving with arrows, and multithreading.
