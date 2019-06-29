@@ -28,7 +28,7 @@ Move with arrow keys
 
 Zoom with mouse wheel
 
-<h3>Compiling and running>
+<h3>Compiling and running</h3>
 
 Run make and an executable will be created. Run ./fractol name_of_fractal. Fractal choices are mandelbrot, julia, burningship.
 
